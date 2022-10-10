@@ -1,4 +1,4 @@
-# Build-Your-Own-RESTful-API
+# Build-Your-Own-RESTful-API TEMPLATE for JEG CORPORATION STUDENTS WITH JAVASCRIPT BY DENNIS EBISINTEI
 
 ## Example Documents
 ```
